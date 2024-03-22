@@ -2,7 +2,7 @@
 ## Role - Junior Machine Learning Engineer
 
 In this internship we had 3 sub projects :
-1) Indore Climate Factors
+1) Indoor Climate Factors
 2) Disease and Pests Detection
 3) Recommendation System
 
